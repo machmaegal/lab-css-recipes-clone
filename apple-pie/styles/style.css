@@ -101,3 +101,19 @@ ol > li:before {
   justify-content: center; 
 }
 
+/*AI suggested feedback*/
+/*
+body {
+  font-family: "Helvetica", sans-serif;
+  background-color: white;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: 4em;
+  position: absolute;
+  margin: 10% 0 10% 40%;
+  background-color: transparent;
+}
+*/
